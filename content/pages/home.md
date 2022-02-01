@@ -1,9 +1,12 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Tommy For Kentucky
+featuredImage: https://ucarecdn.com/3d48e28e-d70a-46aa-a487-de9a0334ca32/
+subtitle: District 73
+accordion:
+  - title: Test
+    content: Test Accordian Content
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
